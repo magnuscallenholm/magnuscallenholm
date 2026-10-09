@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Magnus! 👋
 
-<!--
-**magnuscallenholm/magnuscallenholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET development student based in Stockholm, Sweden, with a background in IT, retail and fitness.
 
-Here are some ideas to get you started:
+I enjoy both frontend and backend development and love turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+C# · ASP.NET Core · SQL · JavaScript · React · TypeScript · HTML · CSS 
+
+### 🚀 Currently
+- Building full-stack applications and improving my .NET skills.
+- Working on **MovieVault**, a movie application using ASP.NET Core and React.
+- Looking for a **LIA internship in Stockholm, starting March 2027**.
+
+### 🔗 Connect with me
+[Portfolio](https://callenholm.dev) · [LinkedIn](https://www.linkedin.com/in/magnuscallenholm)
