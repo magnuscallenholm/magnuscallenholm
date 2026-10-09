@@ -2,7 +2,9 @@
 
 💻 **.NET Development Student | Full-Stack Enthusiast**
 
-I'm based in Stockholm, Sweden, with a background in IT, retail and fitness. I enjoy both frontend and backend development, solving problems and building applications that make a difference.
+I'm a software development student based in Stockholm, Sweden, with a background in IT, retail and fitness.
+
+I enjoy both frontend and backend development, solving problems and turning ideas into working applications. I’m passionate about learning new technologies and building solutions that make a difference.
 
 ### 🛠️ Tech Stack
 
