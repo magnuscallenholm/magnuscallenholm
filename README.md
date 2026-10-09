@@ -1,16 +1,21 @@
 # Hi, I'm Magnus! 👋
 
-I'm a .NET development student based in Stockholm, Sweden, with a background in IT, retail and fitness.
+💻 **.NET Development Student | Full-Stack Enthusiast**
 
-I enjoy both frontend and backend development and love turning ideas into working applications.
+I'm based in Stockholm, Sweden, with a background in IT, retail and fitness. I enjoy both frontend and backend development, solving problems and building applications that make a difference.
 
-### 💻 Tech Stack
-C# · ASP.NET Core · SQL · JavaScript · React · TypeScript · HTML · CSS 
+### 🛠️ Tech Stack
 
-### 🚀 Currently
-- Building full-stack applications and improving my .NET skills.
-- Working on **MovieVault**, a movie application using ASP.NET Core and React.
-- Looking for a **LIA internship in Stockholm, starting March 2027**.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,ts,js,html,css,git&theme=dark" alt="Tech stack" />
 
-### 🔗 Connect with me
-[Portfolio](https://callenholm.dev) · [LinkedIn](https://www.linkedin.com/in/magnuscallenholm)
+**Also working with:** SQL Server · ASP.NET Core · Entity Framework Core
+
+### 🚀 What I'm up to
+
+- 🎓 Studying .NET development at YH Akademin.
+- 🎬 Building **MovieVault** using ASP.NET Core, React and TypeScript.
+- 🔎 Looking for a **LIA internship in Stockholm, starting March 2027**.
+
+### 🔗 Let's connect
+
+🌐 [Portfolio](https://callenholm.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/magnuscallenholm)
